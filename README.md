@@ -1,6 +1,6 @@
 # php-fpm-v8js-docker
 
-Docker image based on the official [https://hub.docker.com/layers/php/library/php/7.3-fpm/images/sha256-94a95d4031c80332ef09714bdd235ca74333f55ffc86af73250484b75d697ccb](php:7.3-fpm) image. 
+Docker image based on the official [php:7.3-fpm ](https://hub.docker.com/layers/php/library/php/7.3-fpm/images/sha256-94a95d4031c80332ef09714bdd235ca74333f55ffc86af73250484b75d697ccb) image. 
 
 Use it as base image for your php application. 
 
